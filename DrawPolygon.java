@@ -1,5 +1,3 @@
-// Skeletal program for the "Draw Polygons" assignment
-// Written by:  Minglun Gong
 
 
 
